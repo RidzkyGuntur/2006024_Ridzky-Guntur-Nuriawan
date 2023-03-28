@@ -296,7 +296,7 @@ class ConstrainedBoxWidget extends StatelessWidget {
                                 ),
                                 image: DecorationImage(
                                   image: NetworkImage(
-                                    "https://picsum.photos/300",
+                                    "https://picsum.photos/400",
                                   ),
                                 ),
                               ),
