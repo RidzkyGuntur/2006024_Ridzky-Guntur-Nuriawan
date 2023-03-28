@@ -75,7 +75,7 @@ class _NewsDetailScreenState extends State<NewsDetailScreen> {
               padding: const EdgeInsets.all(16.0),
               child: SingleChildScrollView(
                 child: Text(
-                  'berita ka ${widget.newsId}. pokonamah ieumah kade we sok seer nu tidak tau diri ygy,wellllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll.',
+                  'berita ka ${widget.newsId}. Kamu harus berhenti merasa sirik pada orang lain dan fokuslah pada pencapaianmu sendiri. Kita semua memiliki perjalanan hidup yang berbeda dan semuanya memiliki kesulitan masing-masing. Jangan biarkan perasaan iri menguasaimu dan menghambatmu untuk mencapai kesuksesanmu sendiri. Jadilah inspirasi bagi dirimu sendiri dan orang lain. Ingatlah bahwa kesuksesanmu tidak akan membuat keberhasilan orang lain merosot, sebaliknya kesuksesanmu dapat memberi inspirasi bagi orang lain untuk mencapai tujuannya..',
                   style: TextStyle(fontSize: 22),
                 ),
               ),
